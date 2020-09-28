@@ -1,0 +1,5 @@
+今日やること
+
+1   Github登録
+2   Githubでリポジトリを作成、Push、Pullの確認
+3   実際に共同編集してみる  PullRequest Merge
