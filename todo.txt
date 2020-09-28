@@ -3,3 +3,10 @@
 1   Github登録
 2   Githubでリポジトリを作成、Push、Pullの確認
 3   実際に共同編集してみる  PullRequest Merge
+
+流れ
+
+1   まずは作業フォルダを作成（昨日のフォルダでもおk）
+2   Githubにリポジトリを作成
+3   ローカルとリモートをくっつけるためのコードをコピーして実行
+4   add,commit,push
